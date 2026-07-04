@@ -34,6 +34,7 @@ import com.lagradost.cloudstream3.syncproviders.SyncRepo
 import com.lagradost.cloudstream3.syncproviders.providers.AniListApi.CoverImage
 import com.lagradost.cloudstream3.syncproviders.providers.AniListApi.LikePageInfo
 import com.lagradost.cloudstream3.syncproviders.providers.AniListApi.RecommendationConnection
+import com.lagradost.cloudstream3.syncproviders.providers.AniListApi.RecommendedMedia
 import com.lagradost.cloudstream3.syncproviders.providers.AniListApi.SeasonNextAiringEpisode
 import com.lagradost.cloudstream3.syncproviders.providers.AniListApi.Title
 import com.lagradost.cloudstream3.toNewSearchResponseList
